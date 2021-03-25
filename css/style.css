@@ -13,7 +13,12 @@
         text-align: center;
     }
     h2 {
-        font-size: 1.5em;
+        font-size: 1.7em;
+        text-align: center;
+        color: black;
+    }
+    h3 {
+        font-size: 1.7em;
         text-align: center;
         color: black;
     }
@@ -23,7 +28,11 @@
     button {
         background-color: rgba(255, 0, 0, 0.2);
         font-weight: bold;
-        font-size: 2.0;
+        font-size: 3.0;
+        margin: auto;
+        align-items: center;
+        padding: 10 10 10 10;
+    }
     ul {
         display: grid;
         flex-direction: column;
