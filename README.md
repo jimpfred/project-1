@@ -1,4 +1,4 @@
-# A visual tour of the National Park System
+# A Visual Tour of the National Park System
 
 ## Technologies
 
