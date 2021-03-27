@@ -45,7 +45,7 @@ $('#main').on('click', function(evt) {
   )
 })
 
-// function:  build photo/cam selection menu
+// function:  build photo/cam selection menu from selected park
 
 $('#stateList').on('click', function(evt) {
     document.querySelector('#stateList').remove()
@@ -105,7 +105,6 @@ $('#photoList').on('click', function(evt) {
     } 
 
   } 
-
   if (storedWebCams.length > 0) {
     for (i=0; i < storedWebCams.length; i++) {
       if ('Web Cam: ' + storedWebCams[i].title === evt.target.innerText) {
