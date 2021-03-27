@@ -7,7 +7,7 @@
 3. JavaScript
 4. JQuery
 
-## Screens
+## Screen
 
 ![](/screen1.jpg)
 
@@ -19,5 +19,5 @@
 
 ## Future Enhancements
 
-1. Utilize the vast other data that is available.  For example, do a comparison of activities between the parks of the users choice.
+1. Utilize the vast other data that is available.  For example, do a comparison of activities between the parks of the user's choice.
 2. I would love to combine with mapping or hiking data (I haven't found a solid hiking API yet),
